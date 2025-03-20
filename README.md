@@ -27,7 +27,7 @@ Jupyter Notebook
 
 Clone this repository:
 
-git clone <repository_url>
+git clone <git@github.com:yamellmejia/Python-API-Challenge.git>
 
 Install the required Python packages:
 
